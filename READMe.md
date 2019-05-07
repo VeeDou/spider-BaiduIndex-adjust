@@ -12,7 +12,7 @@ python版本号 3.6.1
 https://blog.csdn.net/mk_csdn/article/details/79505543    
 
 ### 二:通过得到的截图训练模型
-1.训练模型：参考（https://blog.csdn.net/u012555556/article/details/80666809）
+1.训练模型：参考（https://blog.csdn.net/u012555556/article/details/80666809）    
 2.将num.traineddata复制   C:\Program Files (x86)\Tesseract-OCR\tessdata   
 
 
