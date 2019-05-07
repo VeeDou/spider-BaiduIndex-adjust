@@ -1,4 +1,4 @@
-一：相关配置信息
+### 一：相关配置信息
 python版本号 3.6.1
 1.安装依赖库：pip install -r requirements.txt
 2.确保 config.py  template.html  Raphael.js 和 get_index 都在同一目录下
@@ -11,7 +11,7 @@ https://blog.csdn.net/mk_csdn/article/details/79505543
 
 4.将num.traineddata复制   C:\Program Files (x86)\Tesseract-OCR\tessdata
 
-二:爬虫涉及内容
+###  二:爬虫涉及内容
 1.无头浏览器
 2.cookie登录
 3.js破解
